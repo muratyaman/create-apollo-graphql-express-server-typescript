@@ -1,0 +1,28 @@
+{
+  "name": "create-apollo-graphql-express-server-typescript",
+  "version": "1.0.0",
+  "keywords": [
+    "graphql",
+    "apollo",
+    "server",
+    "typescript",
+    "create",
+    "template"
+  ],
+  "description": "NPM template to create Apollo GraphQL Express server using TypeScript and Node",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muratyaman/create-apollo-graphql-express-server-typescript.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  },
+  "bugs": {
+    "url": "https://github.com/muratyaman/create-apollo-graphql-express-server-typescript/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

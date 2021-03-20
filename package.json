@@ -10,6 +10,9 @@
     "template"
   ],
   "description": "NPM template to create Apollo GraphQL Express server using TypeScript and Node",
+  "bin": {
+    "create-apollo-graphql-express-server-typescript": "./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/muratyaman/create-apollo-graphql-express-server-typescript.git"
@@ -22,7 +25,7 @@
     "url": "https://github.com/muratyaman/create-apollo-graphql-express-server-typescript/issues"
   },
   "files": [
-    "template",
-    "template.json"
+    "index.js",
+    "template"
   ]
 }
